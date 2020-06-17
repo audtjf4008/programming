@@ -1,0 +1,31 @@
+import turtle as t
+
+t.shape('turtle')
+import turtle
+t = turtle.Pen()
+t.width(5)
+t.shape("turtle")
+t.color("red")
+t.circle(100)
+t.up()
+t.goto(-220,0)
+t.down()
+t.color("yellow")
+t.circle(100)
+t.up()
+t.goto(220,0)
+t.down()
+t.color("green")
+t.circle(100)
+t.up()
+t.goto(-120,-140)
+t.down()
+t.color("blue")
+t.circle(100)
+t.up()
+t.goto(120,-140)
+t.color("black")
+t.down()
+t.circle(100)
+
+
